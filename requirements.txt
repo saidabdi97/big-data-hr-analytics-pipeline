@@ -1,0 +1,6 @@
+dlt
+duckdb
+requests
+dbt-duckdb
+dagster
+streamlit

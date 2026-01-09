@@ -31,7 +31,7 @@ def jobtech_ads():
 
 if __name__ == "__main__":
     pipeline = dlt.pipeline(
-        pipeline_name="jobtech",
+        pipeline_name="hr_job_ads",
         destination="duckdb",
         dataset_name="raw"
     )

@@ -1,6 +1,13 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
-jobtech.duckdb
-logs/
+
+# DuckDB warehouse
+duck_pond/*.duckdb
+
+# OS junk
 .DS_Store
+
+# Logs
+logs/
